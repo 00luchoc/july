@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/july/static/css/main.1ed07ec1.css",
+    "main.js": "/july/static/js/main.d765c64a.js",
+    "index.html": "/july/index.html",
+    "main.1ed07ec1.css.map": "/july/static/css/main.1ed07ec1.css.map",
+    "main.d765c64a.js.map": "/july/static/js/main.d765c64a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ed07ec1.css",
+    "static/js/main.d765c64a.js"
+  ]
+}
